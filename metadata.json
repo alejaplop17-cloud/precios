@@ -1,0 +1,6 @@
+{
+  "name": "Valora Pricing",
+  "description": "Plataforma integral de inteligencia de precios, costeo multipropósito, análisis de competencia y simulación financiera para empresas y profesionales.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
